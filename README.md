@@ -1,1 +1,1 @@
-Nyc Park Recreation Center Schedule Scraper
+NYC Parks Recreation Center Schedule Scraper
